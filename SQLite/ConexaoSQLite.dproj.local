@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/10 21:27:42.000.109,=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 18:37:27.000.742,=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 18:57:06.000.897,=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 19:18:08.000.063,C:\Desenvolvimento\delphi\BancoDados\Access\U_Principal.dfm=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/12/02 19:18:08.000.063,C:\Desenvolvimento\delphi\BancoDados\Access\U_Principal.pas=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 19:18:15.000.894,C:\Desenvolvimento\delphi\BancoDados\Access\ConexaoAccess.dproj=C:\Users\Treinamento01\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/02 19:32:35.000.411,C:\Desenvolvimento\delphi\BancoDados\SQLite\ConexaoAccess.dproj=C:\Desenvolvimento\delphi\BancoDados\SQLite\ConexaoSQLite.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
