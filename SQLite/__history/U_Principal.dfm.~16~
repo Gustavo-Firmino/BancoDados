@@ -14,8 +14,8 @@ object FrmPrincipal: TFrmPrincipal
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 96
-    Top = 13
+    Left = 136
+    Top = 103
     Width = 31
     Height = 13
     Alignment = taCenter
@@ -24,8 +24,8 @@ object FrmPrincipal: TFrmPrincipal
     ParentColor = False
   end
   object Button1: TButton
-    Left = 8
-    Top = 8
+    Left = 120
+    Top = 72
     Width = 75
     Height = 25
     Caption = 'CONECTAR'
@@ -36,12 +36,12 @@ object FrmPrincipal: TFrmPrincipal
     Params.Strings = (
       'DriverID=SQLite')
     LoginPrompt = False
-    Left = 352
-    Top = 8
+    Left = 280
+    Top = 16
   end
   object FDTable1: TFDTable
     Connection = FDConnection1
-    Left = 352
-    Top = 64
+    Left = 288
+    Top = 72
   end
 end
